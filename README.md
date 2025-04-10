@@ -1,4 +1,4 @@
-# Next App Boilerplate
+# Functional CRA (Create React App)
 
 ![The definition of "boilerplate"](https://i.imgur.com/0xEmAP6.png)
 
